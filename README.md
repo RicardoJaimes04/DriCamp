@@ -1,2 +1,2 @@
-# DriCamp
-App for Farmers 
+# DriCamp fashion
+App for Farmers around the world
